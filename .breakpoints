@@ -1,0 +1,20 @@
+{
+  "files": {
+    "models/blacklist.js": [
+      {
+        "id": "6c6bce9b-90b0-4429-aab4-c593c33bbd88",
+        "line": 2,
+        "version": 19,
+        "index": 32
+      }
+    ],
+    "models/cooldowns.js": [
+      {
+        "id": "8affd6df-c1a3-4616-b719-b8affa574781",
+        "line": 3,
+        "version": 410,
+        "index": 33
+      }
+    ]
+  }
+}

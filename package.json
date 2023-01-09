@@ -1,0 +1,21 @@
+{
+	"name": "ethernal",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"fm": "prettier --write ."
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"discord.js": "^12.5.1",
+		"dotenv": "^8.2.0",
+		"express": "^4.17.1",
+		"moment": "^2.29.1",
+		"mongoose": "*",
+		"prettier": "^2.4.1"
+	}
+}
